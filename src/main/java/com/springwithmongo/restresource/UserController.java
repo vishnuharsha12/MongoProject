@@ -56,6 +56,7 @@ public void delete(@PathVariable("user") String user){
 //        user.setUsername(username);
 //        user.setUserphno(userphno);
     // userDetailsRepo.deleteById(user);
+    System.out.println("my program");
      UserDetails us=new UserDetails();
      us.setUseradd(user);
      userDetailsRepo.delete(us);
