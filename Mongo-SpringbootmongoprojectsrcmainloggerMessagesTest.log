@@ -1,0 +1,8 @@
+26-06-2018 10:06:07 WARN  [main]: I am warning message
+26-06-2018 10:06:07 FATAL [main]: I am Fatal
+26-06-2018 10:06:07 ERROR [main]: I am error
+26-07-2018 10:07:19 DEBUG [main]: I am Debug
+26-07-2018 10:07:19 INFO  [main]: I am Info
+26-07-2018 10:07:19 WARN  [main]: I am warning message
+26-07-2018 10:07:19 FATAL [main]: I am Fatal
+26-07-2018 10:07:19 ERROR [main]: I am error

@@ -1,0 +1,5 @@
+2018-34-26 19:34:57 DEBUG [main]: I am Debug
+2018-34-26 19:34:57 INFO  [main]: I am Info
+2018-34-26 19:34:57 WARN  [main]: I am warning message
+2018-34-26 19:34:57 FATAL [main]: I am Fatal
+2018-34-26 19:34:57 ERROR [main]: I am error

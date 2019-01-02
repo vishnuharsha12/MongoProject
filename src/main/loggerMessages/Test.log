@@ -1,0 +1,9 @@
+26-10-2018 10:10:32 INFO  [main]: I am Info
+26-10-2018 10:10:32 WARN  [main]: I am warning message
+26-10-2018 10:10:32 FATAL [main]: I am Fatal
+26-10-2018 10:10:32 ERROR [main]: I am error
+2018-12-26 10:12:31 DEBUG [main]: I am Debug
+2018-12-26 10:12:31 INFO  [main]: I am Info
+2018-12-26 10:12:31 WARN  [main]: I am warning message
+2018-12-26 10:12:31 FATAL [main]: I am Fatal
+2018-12-26 10:12:31 ERROR [main]: I am error
